@@ -8,11 +8,13 @@ project:
 
 website:
   title: "CSAMA 2026 Biological Data Science"
+  site-url: "https://csama2026.bioconductor.eu"
   open-graph:
-     locale:
-       en_US
-     site-name:
-       "CSAMA 2026"
+    locale:
+      en_US
+    site-name:
+      "CSAMA 2026"
+    image: "images/CSAMA2026.png"
   navbar:
     title: false
     background: "#1a81c2"
@@ -89,7 +91,6 @@ website:
   Bioconductor's mission to promote open source software 
   in the life sciences and statistics."
   favicon: "images/CSAMA2026.png"
-  image: "images/CSAMA2026.png"
 
 format:
   html:
