@@ -1,1 +1,1 @@
-Sitemap: https://RissoLab.github.io/CSAMA2026/sitemap.xml
+Sitemap: https://csama2026.bioconductor.eu/sitemap.xml
