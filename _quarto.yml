@@ -8,7 +8,6 @@ project:
 
 website:
   title: "CSAMA 2026 Biological Data Science"
-  site-url: "https://csama2026.bioconductor.eu"
   open-graph:
     locale:
       en_US
