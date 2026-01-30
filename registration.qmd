@@ -3,8 +3,8 @@
 In order to register, each participant needs to fill in the form at the following link and complete the payment. Please include your contact email and name, you will receive the payment details by email.
 
 
-**Registration will open 1st February, 2026**
-<!-- [**Register here!**](https://apex.cca.unipd.it/pls/apex/f?p=308:2:::NO:2:P_MERCHID,P_LANG:345,USA) -->
+### Registration is now open: [Register here!](https://apex.cca.unipd.it/pls/apex/f?p=308:2::::2:P_MERCHID,P_LANG:392,USA)
+
 
 If you are unsure about which participant category you belong to, if you have special requirements for you invoice, or for any other reason, please contact us at csama\[at\]stat.unipd.it. We will guide you through registration.
 
