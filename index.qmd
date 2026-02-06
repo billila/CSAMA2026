@@ -16,11 +16,11 @@ The one-week intensive summer school **Biological Data Science** teaches advance
 | :--: | :--: | :--: |
 | ![Vince Carey](images/faculty/carey.jpeg){width=200}<br> **Vince Carey**<br> Harvard Medical School | ![Helena Crowell](images/faculty/crowell.jpeg){width=200}<br> **Helena Crowell**<br> CNAG Barcelona |  ![Laurent Gatto](images/faculty/gatto.jpg){width=200}<br> **Laurent Gatto**<br> UC Louvain |
 |  |  |  |
-| ![Wolfgang Huber](images/faculty/huber.jpg){width=200}<br> **Wolfgang Huber**<br> EMBL|  ![Johannes Rainer](images/faculty/rainer.jpeg){width=200}<br> **Johannes Rainer**<br> Eurac Research | ![Davide Risso](images/faculty/risso.jpeg){width=200}<br> **Davide Risso**<br> University of Padova |
+| ![Wolfgang Huber](images/faculty/huber.jpg){width=200}<br> **Wolfgang Huber**<br> EMBL| ![Katharina Imkeller](images/faculty/imkeller.jpg){width=200}<br> **Katharina Imkeller**<br> Goethe University, University Hospital Frankfurt |  ![Johannes Rainer](images/faculty/rainer.jpeg){width=200}<br> **Johannes Rainer**<br> Eurac Research | 
 |  |  |  |
-| ![Charlotte Soneson](images/faculty/soneson.jpg){width=200}<br> **Charlotte Soneson**<br> Friedrich Miescher Institute for Biomedical Research | ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | ![Hugo Gruson](images/faculty/gruson.jpg){width=200}<br> **Hugo Gruson**<br> EMBL |
+| ![Davide Risso](images/faculty/risso.jpeg){width=200}<br> **Davide Risso**<br> University of Padova | ![Charlotte Soneson](images/faculty/soneson.jpg){width=200}<br> **Charlotte Soneson**<br> Friedrich Miescher Institute for Biomedical Research | ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | 
 | | | |
-| ![Daria Lazic](images/faculty/lazic.jpg){width=100}<br> **Daria Lazic**<br> EMBL |
+| ![Hugo Gruson](images/faculty/gruson.jpg){width=200}<br> **Hugo Gruson**<br> EMBL | ![Daria Lazic](images/faculty/lazic.jpg){width=100}<br> **Daria Lazic**<br> EMBL |
 
 ::: {.column-margin}
 Organized in collaboration with <br><br><br>
