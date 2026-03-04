@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Registration is now open!** Visit the [Registration](registration.qmd) page for more details."
+    content: "**Registration is now open!** Visit the [Registration](/registration.qmd) page for more details. **New**: accommodation options available."
     type: dark
     position: above-navbar
   navbar:

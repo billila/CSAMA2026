@@ -12,9 +12,9 @@ If you are unsure about which participant category you belong to, if you have sp
 
 | Registration type     | Description                                                        | Summer School Fee | Accommodation (optional) |
 |----------------|------------------------|----------------|----------------|
-| Junior Researcher     | Undergraduate or postgraduate students and postdocs                | 1100 €            | TBA                    |
-| Academic / Non-profit | Senior researchers from academic and other non-profit institutions | 1575 €            | N/A                      |
-| Industry              | Researchers from the commercial sector                             | 2600 €            | N/A                      |
+| Junior Researcher     | Undergraduate or postgraduate students and postdocs                | 1100 €            | See below                    |
+| Academic / Non-profit | Senior researchers from academic and other non-profit institutions | 1575 €            |                       |
+| Industry              | Researchers from the commercial sector                             | 2600 €            |                      |
 
 The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks and lunch, Wednesday’s social programme and dinner, course material.
 
@@ -22,7 +22,23 @@ Places are awarded on a first-come, first-served basis. In previous years the co
 
 <!-- Optional accommodation is available only for junior researchers in shared double rooms at the venue (check-in: Sunday, check-out: Saturday). Note that there is a limited number of rooms available and they will be awarded on a first-come, first-served basis. Alternatively, students can book their own accommodation (see hotel information [here](https://csama2024.bioconductor.eu/travel-and-accommodation/)). -->
 
-We are currently exploring the possibility of offering a special rate for accommodation near the venue for junior researchers. More details will be provided soon.
+<!-- We are currently exploring the possibility of offering a special rate for accommodation near the venue for junior researchers. More details will be provided soon. -->
+
+## Accommodation
+
+The [Tourist Hotel](https://tourist-hotel-bressanone.hotelcheckins.com/) in Brixen offers special rates for CSAMA participants. All rooms include breakfast and a [Brixen Card](https://www.brixen.org/it/la-mia-vacanza/vacanze-a-bressanone-1/guestpass-brixencard) for local transportaion.
+
+Available options:
+
+- Double room: 160 Euro/night.
+- Single room: 80 Euro/night.
+- Triple room: 220 Euro/night.
+- Single-use double room: 114 Euro/night.
+
+Please **contact the hotel directly at [info@hoteltourist.info](mailto:info@hoteltourist.info) to book your stay** and mention that you are attending the CSAMA event organized by the University of Padova.
+
+The special rates are guaranteed until the end of March on a first-come, first-served basis.
+
 
 ## Cancellation and Refund policy
 
