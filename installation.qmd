@@ -4,7 +4,7 @@ Due to the limited Internet connectivity at the course venue, it is necessary th
 
 # R and RStudio setup:
 
-1.  Please install the current release version of R (version 4.5.1). For more instructions, please check [https://cran.r-project.org/](https://cran.r-project.org/)
+1.  Please install the current release version of R (version 4.6.0). For more instructions, please check [https://cran.r-project.org/](https://cran.r-project.org/)
 
 2.  Please install and set up Git. Jenny Bryan has some excellent instructions available at [http://happygitwithr.com/install-git.html](http://happygitwithr.com/install-git.html)
 
