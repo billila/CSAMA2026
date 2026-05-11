@@ -14,7 +14,7 @@ If you are using Windows we recommend Git-For-Windows [https://git-for-windows.g
 
 4a. (ONLY FOR WINDOWS USERS) Download and install Rtools, available from: [https://cran.r-project.org/bin/windows/Rtools/rtools45/rtools.html](https://cran.r-project.org/bin/windows/Rtools/rtools45/rtools.html) If you have RStudio open you should close RStudio and start it again after you have finished the installation. This allows the changes to take effect.
 
-4b. (ONLY FOR LINUX USERS) If you use Linux it is likely you will need to install some additional system libraries. An example installation of the required libraries for Ubuntu 20.04 can be found at [https://csama2025.bioconductor.eu/installation_script/linux_libraries.sh](installation_script/linux_libraries.sh) You may need to adjust this for your own Linux distribution. In our experience, it is best to move to the next step and return here only if needed.
+4b. (ONLY FOR LINUX USERS) If you use Linux it is likely you will need to install some additional system libraries. An example installation of the required libraries for Ubuntu 20.04 can be found at [https://csama2026.bioconductor.eu/installation_script/linux_libraries.sh](installation_script/linux_libraries.sh) You may need to adjust this for your own Linux distribution. In our experience, it is best to move to the next step and return here only if needed.
 
 5.  After installing all of the above, please open RStudio and copy the line below into your R prompt:
 
@@ -22,7 +22,7 @@ If you are using Windows we recommend Git-For-Windows [https://git-for-windows.g
 ```{r}
 #| eval: false
 #| include: true
-source("https://raw.githubusercontent.com/RissoLab/CSAMA2025/refs/heads/main/installation_script/install_packages.R")
+source("https://raw.githubusercontent.com/RissoLab/CSAMA2026/refs/heads/main/installation_script/install_packages.R")
 
 ```
 
@@ -69,6 +69,6 @@ docker pull rformassspectrometry/metabonaut:latest
 
 If you encounter any errors, please pay close attention to the messages displayed, they may contain further instructions.
 
-For questions regarding software installation, please contact Ilaria Billato.
+For questions regarding software installation, please contact Ilaria Billato, Hugo Gruson or Daria Lazic.
 
-We also have a Slack channel for the course [https://CSAMA2025.slack.com/](https://CSAMA2025.slack.com/) where you can ask support questions and meet fellow course participants.
+We also have a Zulip channel for the course [Zulip CSAMA 2026](https://csama2026.zulipchat.com/join/l2cuegnbhy4hv2vwclks7hgt/) where you can ask support questions and meet fellow course participants.
