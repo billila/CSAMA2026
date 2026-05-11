@@ -1,5 +1,5 @@
 ##------------------------------------------------------------
-## Installation script for CSAMA 2025
+## Installation script for CSAMA 2026
 ##------------------------------------------------------------
 
 ##---------------------------
@@ -64,9 +64,9 @@ installer_with_progress <- function(pkgs) {
 ##-------------------------------------------
 ## System requirements
 ##-------------------------------------------
-.required_R_version = c( "4.5.0", "4.5.1" )
-.required_Bioc_version = "3.21"
-.Bioc_devel_version = "3.22"
+.required_R_version = c( "4.6.0", "4.6.0" )
+.required_Bioc_version = "3.23"
+.Bioc_devel_version = "3.24"
 .required_rstudio_version = "2024.12.1"
 .rstudio_url="https://posit.co/download/rstudio-desktop/"
 options(warn = 1)
@@ -248,11 +248,11 @@ if(all( deps$name %in% rownames(installed.packages()) )) {
             install_command, "\n\n")
   }
   
-  message("If you need help with troubleshooting, please contact the course organisers, or the CSAMA'25 Slack channel (https://CSAMA2025.slack.com).")
+  message("If you need help with troubleshooting, please contact the course organisers, or the CSAMA'26 Zulip channel.")
   
   if( .Platform$pkgType == "source" ){
     message("Some of the packages (e.g. 'Cairo', 'mzR', rgl', 'RCurl', 'tiff', 'XML') that failed to install may require additional system libraries.*",
             "Please check the documentation of these packages for unsatisfied dependencies.\n",
-            "A list of required libraries for Ubuntu can be found at https://csama2025.bioconductor.eu/installation_script/linux_libraries.sh \n\n")
+            "A list of required libraries for Ubuntu can be found at https://csama2026.bioconductor.eu/installation_script/linux_libraries.sh \n\n")
   }
 }
