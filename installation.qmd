@@ -14,7 +14,7 @@ If you are using Windows we recommend Git-For-Windows [https://git-for-windows.g
 
 4a. (ONLY FOR WINDOWS USERS) Download and install Rtools, available from: [https://cran.r-project.org/bin/windows/Rtools/rtools45/rtools.html](https://cran.r-project.org/bin/windows/Rtools/rtools45/rtools.html) If you have RStudio open you should close RStudio and start it again after you have finished the installation. This allows the changes to take effect.
 
-4b. (ONLY FOR LINUX USERS) If you use Linux it is likely you will need to install some additional system libraries. An example installation of the required libraries for Ubuntu 20.04 can be found at [https://csama2026.bioconductor.eu/installation_script/linux_libraries.sh](installation_script/linux_libraries.sh) You may need to adjust this for your own Linux distribution. In our experience, it is best to move to the next step and return here only if needed.
+4b. (ONLY FOR LINUX USERS) If you use Linux it is likely you will need to install some additional system libraries. An example installation of the required libraries for Ubuntu 22.04 can be found at [https://csama2026.bioconductor.eu/installation_script/linux_libraries.sh](installation_script/linux_libraries.sh) You may need to adjust this for your own Linux distribution. In our experience, it is best to move to the next step and return here only if needed.
 
 5.  After installing all of the above, please open RStudio and copy the line below into your R prompt:
 
