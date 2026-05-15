@@ -57,9 +57,87 @@ Then open the following link in your browser:
 - Username: rstudio
 - Password: bioc
 
-- In the RStudio server version: open any of the Quarto files in the vignettes folder and evaluate the R code blocks in that document.
-
 You can follow the pre-rendered version here:[Metabonaut](https://rformassspectrometry.github.io/Metabonaut/index.html)
+
+# Python setup
+
+## Option A — conda/mamba
+
+### 1. Install Miniconda
+
+If you do not already have conda or mamba installed, download and install Miniconda for your platform:
+[https://docs.anaconda.com/miniconda/](https://docs.anaconda.com/miniconda/)
+
+Alternatively, you can install [Miniforge](https://github.com/conda-forge/miniforge), which includes `mamba` (a faster drop-in replacement for `conda`).
+
+On macOS with Homebrew, you can also run:
+
+```bash
+brew install --cask miniconda
+```
+
+or
+
+```bash
+brew install --cask miniforge
+```
+
+### 2. Create the environment
+
+Open a **new** terminal and run:
+
+```bash
+conda create -n segtraq python=3.11
+conda activate segtraq
+pip install segtraq
+```
+
+If you installed Miniforge, you can use `mamba` in place of `conda` in the commands above.
+
+### 3. Verify the setup in R
+
+Open RStudio and run:
+
+```r
+library(reticulate)
+use_condaenv("segtraq")
+import("segtraq")
+```
+
+If the last command runs without errors, you are all set.
+
+::: {.callout-note}
+## Windows users
+If `use_condaenv("segtraq")` cannot find conda, you may need to specify the path to your conda binary before calling it:
+
+```r
+options(reticulate.conda_binary = "C:/Users/YOURUSERNAME/miniconda3/condabin/conda.bat")
+```
+
+Replace the path with your actual Miniconda installation location.
+:::
+
+## Option B — uv 
+
+[uv](https://docs.astral.sh/uv/) is a fast Python package manager that does not require conda.
+
+### 1. Install uv
+
+- macOS (Homebrew): `brew install uv`
+- Linux/macOS: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+- Windows: `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
+
+See [https://docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/) for more options.
+
+### 2. Create the environment
+
+Navigate to a directory of your choice (e.g. a folder for the course materials) and run:
+
+```bash
+uv venv .venv --python 3.11
+source .venv/bin/activate
+uv pip install segtraq
+```
 
 ## In case of errors
 
