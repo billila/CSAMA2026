@@ -39,25 +39,6 @@ If you haven’t done so already, install Docker on your machine:
 
 ## 2. Download the required Docker images
 
-### Spatial Transcriptomics lab
-
-- Image: `robertclab/upf_mscbinf_ieo_spatialomics`
-- Pull the image on your terminal:
-```bash
-docker pull robertclab/upf_mscbinf_ieo_spatialomics
-```
-
-- Run the container with the following command:
-
-```bash
-docker run -d -p 8787:8787 -e PASSWORD=ieo --rm robertclab/upf_mscbinf_ieo_spatialomics
-```
-Then open the following link in your browser:
-[https://localhost:8787](https://localhost:8787)
-
-- Username: rstudio
-- Password: ieo
-
 ### Metabolomics lab
 
 - Image: `rformassspectrometry/metabonaut:latest`
