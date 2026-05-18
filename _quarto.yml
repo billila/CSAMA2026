@@ -87,8 +87,8 @@ website:
         text: Code of Conduct
       - href: contacts.qmd
         text: Contacts
-#      - href: installation.qmd
-#        text: Installation
+      - href: installation.qmd
+        text: Installation
   page-footer: 
     left: "Copyright (c) 2025, European Bioconductor Society e.V. </br>
   The European Bioconductor Society e.V. is 
